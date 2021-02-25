@@ -2,6 +2,6 @@
 
 Trying to get better on these 🤔
 
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
+[![HitCount](http://hits.dwyl.io/Gokhan-Unal/badges.svg)](http://hits.dwyl.io/Gokhan-Unal/badges)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Gokhan-Unal's github stats](https://github-readme-stats.vercel.app/api?username=Gokhan-Unal&theme=blue-green)](https://github.com/Gokhan-Unal/github-readme-stats)
