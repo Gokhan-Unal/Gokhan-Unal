@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-- [] Hi
+
+```js
+console.log("hi")
+```
